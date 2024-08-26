@@ -1,0 +1,27 @@
+html{
+    background-color: black;
+}
+
+h1{
+    font-family: serif;
+    color: white;
+    text-align: center;
+    font-size: 4vw;
+}
+
+h2{
+    font-family: serif;
+    color: white;
+    text-align: center;
+}
+
+img{
+    border: 5px solid white;
+    width: 100%;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
